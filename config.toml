@@ -1,0 +1,4 @@
+baseURL = "https://www.jamstackaustin.com/"
+languageCode = "en-us"
+title = "JAMstack Austin"
+theme = "kiera"
