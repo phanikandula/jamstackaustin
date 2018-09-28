@@ -1,0 +1,11 @@
+version: '3.2'
+
+services:
+  dev:
+    build: .
+    container_name: hugo1
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/home/devuser/site
+    command: "tail -f /dev/null"
