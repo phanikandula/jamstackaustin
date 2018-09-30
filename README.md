@@ -42,7 +42,7 @@ Leave this terminal running.
 
 You can start writing new posts, change themes etc and the changes will be hot reloaded and visible at http://localhost:1313/
 
-When you happy with all the edits, build the site with:
+When you are done with edits, build the site with:
 
 Go back to the docker container terminal and kill the server with Ctrl C. Run:
 
